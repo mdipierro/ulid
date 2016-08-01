@@ -22,11 +22,17 @@ Instead, herein is proposed ULID:
 - Case insensitive
 - No special characters (URL safe)
 
+### Install
+
+```
+pip install ulid
+```
+
 ### Usage
 
 ```
-from ulid import ulid
-print ulid()
+import ulid
+print ulid.ulid()
 ```
 
 Below is the current specification of ULID as implemented in this repository. *Note: the binary format has not been implemented.*
