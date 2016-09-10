@@ -1,4 +1,5 @@
 # Python port of https://github.com/alizain/ulid
+# https://github.com/mdipierro/ulid
 # License MIT
 from __future__ import print_function
 import os
