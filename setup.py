@@ -10,6 +10,6 @@ setup(name='ulid',
       author_email='massimo.dipierro@gmail.com',
       url='https://github.com/mdipierro/ulid',
       py_modules=["ulid"],
-      license= 'BSD',
+      license= 'MIT',
      )
 
